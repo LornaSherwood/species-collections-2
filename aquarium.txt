@@ -3,3 +3,7 @@ snails
 clams
 lobster
 crabs
+
+octopus
+nautilus
+dolphin

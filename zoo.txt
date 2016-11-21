@@ -3,3 +3,7 @@ tigers
 giraffe
 hippos
 iguanas
+
+horses
+donkeys
+bunnies
